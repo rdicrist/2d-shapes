@@ -6,6 +6,13 @@
 //  Copyright © 2017 Ricki DiCristoforo. All rights reserved.
 //
 
-int main(){
-    
+#include <iostream>
+
+#include <OpenGL/OpenGL.h>
+#include <GLUT/glut.h>
+
+int main(int argc, const char * argv[]) {
+    // insert code here...
+    std::cout << "Hello, World!\n";
+    return 0;
 }
