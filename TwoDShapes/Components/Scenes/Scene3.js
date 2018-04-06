@@ -20,7 +20,7 @@ class Scene3 extends React.Component {
         lit={true}
         style={{
           transform: [
-            {translate: [-1, 0, -8]},
+            {translate: [2, .5, -8]},
             // {rotateY: this.state.rotation}
           ]
         }}
@@ -36,7 +36,7 @@ class Scene3 extends React.Component {
         lit={true}
         style={{
           transform: [
-            {translate: [-1, 2, -8]},
+            {translate: [2.1, 2.9, -8]},
           ]
         }}
 
@@ -51,7 +51,7 @@ class Scene3 extends React.Component {
         lit={true}
         style={{
           transform: [
-            {translate: [2, 0, -8]},
+            {translate: [1, -1.2, -8]},
             // {rotateY: this.state.rotation}
           ]
         }}
@@ -68,7 +68,7 @@ class Scene3 extends React.Component {
         lit ={true}
         style={{
           transform: [
-            {translate: [-4, -2, -8]},
+            {translate: [1, 1.3, -8]},
             {scale: .5},
             // {rotateY: this.state.rotation}
           ]
@@ -86,7 +86,7 @@ class Scene3 extends React.Component {
         lit ={true}
         style={{
           transform: [
-            {translate: [1.5,2, -8]},
+            {translate: [-.9,0, -8]},
             {rotateZ: '90deg'}
           ]
         }}
@@ -103,7 +103,7 @@ class Scene3 extends React.Component {
         lit ={true}
         style={{
           transform: [
-            {translate: [-1.2,-3, -8]},
+            {translate: [-1,2.1, -8]},
             {rotateY: '90deg'},
             {rotateX: '270deg'},
 
@@ -123,7 +123,7 @@ class Scene3 extends React.Component {
         lit ={true}
         style={{
           transform: [
-            {translate: [3,-3, -8]},
+            {translate: [-1,-2.8, -8]},
             {scale: .9},
             {rotateY: '90deg'},
             {rotateX: '270deg'},
@@ -143,7 +143,7 @@ class Scene3 extends React.Component {
         lit ={true}
         style={{
           transform: [
-            {translate: [0,-2, -8]},
+            {translate: [-2.9,-.5, -8]},
             {scale: .06},
 
           ]

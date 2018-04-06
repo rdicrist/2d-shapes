@@ -21,7 +21,7 @@ class Scene5 extends React.Component {
         lit={true}
         style={{
           transform: [
-            {translate: [2.1, -2.8, -8]},
+            {translate: [-.9, -1.1, -8]},
             // {rotateY: this.state.rotation}
           ]
         }}
@@ -37,7 +37,7 @@ class Scene5 extends React.Component {
         lit={true}
         style={{
           transform: [
-            {translate: [-1.8, -1.4, -8]},
+            {translate: [-2.1, -2.5, -8]},
             {scale: .5},
             // {rotateY: this.state.rotation}
           ]
@@ -54,7 +54,7 @@ class Scene5 extends React.Component {
         lit={true}
         style={{
           transform: [
-            {translate: [-2, -3, -8]},
+            {translate: [1.1, 2.1, -8]},
             // {rotateY: this.state.rotation}
           ]
         }}
@@ -71,7 +71,7 @@ class Scene5 extends React.Component {
         lit ={true}
         style={{
           transform: [
-            {translate: [.8, -.9, -8]},
+            {translate: [2, .8, -8]},
             // {rotateY: this.state.rotation}
           ]
         }}
@@ -88,7 +88,7 @@ class Scene5 extends React.Component {
         lit ={true}
         style={{
           transform: [
-            {translate: [-1,2.8, -8]},
+            {translate: [1.5, -1.6, -8]},
             {rotateZ: '90deg'}
           ]
         }}
@@ -105,7 +105,7 @@ class Scene5 extends React.Component {
         lit ={true}
         style={{
           transform: [
-            {translate: [1.6,2.3, -8]},
+            {translate: [-1.5, 1.5, -8]},
             {rotateY: '90deg'},
             {rotateX: '270deg'},
 
@@ -125,7 +125,7 @@ class Scene5 extends React.Component {
         lit ={true}
         style={{
           transform: [
-            {translate: [-2.4,.8, -8]},
+            {translate: [3.5, 1.9, -8]},
             {scale: .9},
             {rotateY: '90deg'},
             {rotateX: '270deg'},
@@ -145,7 +145,7 @@ class Scene5 extends React.Component {
         lit ={true}
         style={{
           transform: [
-            {translate: [.1,.3, -8]},
+            {translate: [2.4, -2.3, -8]},
             {scale: .06},
 
           ]

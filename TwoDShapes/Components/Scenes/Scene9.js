@@ -22,7 +22,7 @@ class Scene9 extends React.Component {
         lit={true}
         style={{
           transform: [
-            {translate: [2.8, -3, -8]},
+            {translate: [.5, 1.5, -8]},
           ]
         }}
 
@@ -37,7 +37,7 @@ class Scene9 extends React.Component {
         lit={true}
         style={{
           transform: [
-            {translate: [3, 2.8, -8]},
+            {translate: [2.5, 2.4, -8]},
             {scale: .5},
           ]
         }}
@@ -53,7 +53,7 @@ class Scene9 extends React.Component {
         lit={true}
         style={{
           transform: [
-            {translate: [-1.8, 0, -8]},
+            {translate: [2.8, -.4, -8]},
           ]
         }}
 
@@ -69,7 +69,7 @@ class Scene9 extends React.Component {
         lit ={true}
         style={{
           transform: [
-            {translate: [-2.8, -3, -8]},
+            {translate: [2.6, -2.2, -8]},
           ]
         }}
 
@@ -85,7 +85,7 @@ class Scene9 extends React.Component {
         lit ={true}
         style={{
           transform: [
-            {translate: [.5,2.5, -8]},
+            {translate: [-1.5, 1, -8]},
             {rotateZ: '90deg'}
           ]
         }}
@@ -102,7 +102,7 @@ class Scene9 extends React.Component {
         lit ={true}
         style={{
           transform: [
-            {translate: [-2,1, -8]},
+            {translate: [.1, -2.3, -8]},
             {rotateY: '90deg'},
             {rotateX: '270deg'},
 
@@ -122,7 +122,7 @@ class Scene9 extends React.Component {
         lit ={true}
         style={{
           transform: [
-            {translate: [-.5,-1.5, -8]},
+            {translate: [-2.6, 2.2, -8]},
             {scale: .9},
             {rotateY: '90deg'},
             {rotateX: '270deg'},
@@ -142,7 +142,7 @@ class Scene9 extends React.Component {
         lit ={true}
         style={{
           transform: [
-            {translate: [1,-.7, -8]},
+            {translate: [-2, 0, -8]},
             {scale: .06},
 
           ]
